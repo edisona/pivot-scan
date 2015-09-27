@@ -1,0 +1,2 @@
+This tool is usefull in postexplotation process for scan all those hosts unreacheable from internet but in the same subnet of the  compromised host.
+This tool runs under meterpreter context because is a meterpreter script.
